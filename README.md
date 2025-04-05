@@ -1,6 +1,6 @@
 # 👋 Salut, je suis Sami Assiakh
 
-## 💻 Développeur Full Stack | React | Vue.js | Symfony
+## 💻 Développeur Full Stack | Nuxt | Vue.js | Symfony | React
 
 Passionné par le développement web et la création d'applications innovantes, je suis un développeur full stack avec une expertise en Symfony et Nuxt.
 
